@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/IndudiniThennakoon/koaJS-testing/issues"
   },
-  "homepage": "https://github.com/IndudiniThennakoon/koaJS-testing#readme"
+  "homepage": "https://github.com/IndudiniThennakoon/koaJS-testing#readme",
+  "dependencies": {
+    "koa": "^2.14.1"
+  }
 }
